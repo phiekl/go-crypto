@@ -13,7 +13,7 @@ import (
 	"io"
 
 	"github.com/ProtonMail/go-crypto/openpgp/errors"
-	"github.com/ProtonMail/go-crypto/openpgp/internal/algorithm"
+	"github.com/ProtonMail/go-crypto/openpgp/algorithm"
 )
 
 // readFull is the same as io.ReadFull except that reading zero bytes returns

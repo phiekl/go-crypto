@@ -13,7 +13,7 @@ import (
 	"strconv"
 
 	"github.com/ProtonMail/go-crypto/openpgp/errors"
-	"github.com/ProtonMail/go-crypto/openpgp/internal/algorithm"
+	"github.com/ProtonMail/go-crypto/openpgp/algorithm"
 )
 
 // Config collects configuration parameters for s2k key-stretching

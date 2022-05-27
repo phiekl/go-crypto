@@ -12,7 +12,7 @@ import (
 	"math/big"
 
 	"github.com/ProtonMail/go-crypto/openpgp/aes/keywrap"
-	"github.com/ProtonMail/go-crypto/openpgp/internal/ecc"
+	"github.com/ProtonMail/go-crypto/openpgp/ecc"
 	"golang.org/x/crypto/curve25519"
 )
 

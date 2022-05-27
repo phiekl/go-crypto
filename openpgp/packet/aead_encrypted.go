@@ -10,7 +10,7 @@ import (
 	"io"
 
 	"github.com/ProtonMail/go-crypto/openpgp/errors"
-	"github.com/ProtonMail/go-crypto/openpgp/internal/algorithm"
+	"github.com/ProtonMail/go-crypto/openpgp/algorithm"
 )
 
 // AEADEncrypted represents an AEAD Encrypted Packet (tag 20, RFC4880bis-5.16).
